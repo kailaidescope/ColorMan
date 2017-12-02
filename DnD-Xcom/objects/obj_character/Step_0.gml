@@ -13,7 +13,7 @@ vsp = vsp + grv
 
 if (place_meeting(x, y + 1, obj_box)) && (key_jump)
 {
-		
+	vsp = -12;	
 }
 
 

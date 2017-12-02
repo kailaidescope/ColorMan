@@ -1,4 +1,4 @@
 hsp = 0;
 vsp = 0;
-grv = 0.3;
-walksp = 6;
+grv = 0.5;
+walksp = 7;
