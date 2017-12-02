@@ -17,6 +17,20 @@ if (place_meeting(x, y + 1, obj_box)) && (key_jump)
 	vsp = -16;	
 }
 
+//Sprites
+if (vsp < 0)
+{
+	sprite_index = spr_character_jumping
+}
+if (vsp = 0)
+{
+	sprite_index = spr_character	
+}
+if (vsp > 0)
+{
+	sprite_index = spr_character_falling	
+}
+
 
 //Horizontal collision
 if (place_meeting(x + hsp, y , obj_box))
@@ -38,6 +52,7 @@ if (place_meeting(x, y + vsp, obj_box))
 		y = y + sign(vsp);
 	}
 	vsp = 0;
+	sprite_index = spr_character	
 }
 
 y = y + vsp;
