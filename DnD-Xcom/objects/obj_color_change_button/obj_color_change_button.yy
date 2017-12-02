@@ -2,9 +2,18 @@
     "id": "da81e030-5d98-462b-8450-4df725429df6",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object5",
+    "name": "obj_color_change_button",
     "eventList": [
-        
+        {
+            "id": "feed869a-5b81-4d80-8fd4-2ff8863d4463",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "da81e030-5d98-462b-8450-4df725429df6"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",

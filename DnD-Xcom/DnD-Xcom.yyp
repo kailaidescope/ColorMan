@@ -226,7 +226,7 @@
             "Key": "da81e030-5d98-462b-8450-4df725429df6",
             "Value": {
                 "id": "9543ec82-e571-45fc-b8bf-3b1c7a8dc135",
-                "resourcePath": "objects\\object5\\object5.yy",
+                "resourcePath": "objects\\obj_color_change_button\\obj_color_change_button.yy",
                 "resourceType": "GMObject"
             }
         },
