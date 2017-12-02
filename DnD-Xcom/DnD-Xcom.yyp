@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "ca1d5438-560e-4275-afb2-3b90aceaf515",
+            "Value": {
+                "id": "3aecc372-e034-4fe1-bb54-0cb731efa1ec",
+                "resourcePath": "scripts\\script0\\script0.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "fe1f5ee1-3e6a-456e-9155-c92dd30eb317",
