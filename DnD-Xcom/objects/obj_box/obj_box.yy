@@ -2,7 +2,7 @@
     "id": "5406ba11-a93b-4aa3-bf21-ae8da412685f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_floor_top",
+    "name": "obj_box",
     "eventList": [
         
     ],
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "d9f0fea7-f315-4baf-a424-1e6d1b3a1cf8",
+    "spriteId": "da136dfd-8f36-4b83-8d56-63d115401d12",
     "visible": true
 }
