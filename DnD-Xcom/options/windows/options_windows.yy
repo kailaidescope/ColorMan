@@ -30,9 +30,9 @@
     "option_windows_use_splash": false,
     "option_windows_version": {
         "build": 0,
-        "major": 1,
+        "major": 0,
         "minor": 0,
-        "revision": 0
+        "revision": 1
     },
     "option_windows_vsync": false
 }
