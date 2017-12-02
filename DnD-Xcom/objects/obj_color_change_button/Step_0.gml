@@ -16,7 +16,7 @@ if (position_meeting(x,y,obj_character) = true)
 		instance_deactivate_object(obj_black_box);
 		instance_activate_object(obj_white_box);
 	}
-	cooldown = 20
+	cooldown = 50
 	}
 }
 cooldown -= 1
