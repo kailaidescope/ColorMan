@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "e5570692-f8d9-4435-930e-c170f7db448a",
+            "Value": {
+                "id": "3b3d3bb5-3965-430f-b19d-4c7ea4b2b48b",
+                "resourcePath": "sounds\\ogg_game\\ogg_game.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "e57c3fa5-6641-4171-97ac-48d4e8776bef",
             "Value": {
                 "id": "ad367451-11a6-422c-a9fa-6b597e728480",
