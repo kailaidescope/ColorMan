@@ -36,6 +36,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 3449941... Added new layers
 =======
 >>>>>>> parent of 3449941... Added new layers
             "layers": [
@@ -47,6 +50,7 @@
             "mvc": "1.0",
             "userdefined_depth": false,
             "visible": true
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
         },
@@ -136,6 +140,8 @@
 >>>>>>> parent of 3449941... Added new layers
 =======
 >>>>>>> parent of 3449941... Added new layers
+=======
+>>>>>>> parent of 3449941... Added new layers
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
@@ -150,10 +156,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "depth": 200,
 =======
             "depth": 300,
 >>>>>>> 3449941a93946c8c7e4b8192ad06d3ea6afd0e39
+=======
+            "depth": 100,
+>>>>>>> parent of 3449941... Added new layers
 =======
             "depth": 100,
 >>>>>>> parent of 3449941... Added new layers
