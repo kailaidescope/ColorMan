@@ -7,13 +7,13 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-
+        "ee213b2e-cc09-4bf6-9787-2cc2d0c7da86"
     ],
     "IsDnD": false,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Instances",
+            "name": "Character",
             "id": "6a811103-b946-4480-87bb-89782a2540d9",
             "depth": 0,
             "grid_x": 32,
@@ -25,7 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+                {"name": "inst_68DC19D3","id": "ee213b2e-cc09-4bf6-9787-2cc2d0c7da86","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_68DC19D3","objId": "f15c31cc-b0a3-48c3-ba50-8b9c036ab190","rotation": 0,"scaleX": 5,"scaleY": 5,"mvc": "1.0","x": 352,"y": 768}
             ],
             "layers": [
 
