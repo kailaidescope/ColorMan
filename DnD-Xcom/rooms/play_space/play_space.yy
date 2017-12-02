@@ -34,6 +34,12 @@
                 {"name": "inst_21B20CC2","id": "c7c97890-f29e-4a96-91d4-aa1c0ab97e01","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_21B20CC2","objId": "e0965cad-4abe-4c94-98ad-dcf2b94aedc4","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 960,"y": 384}
             ],
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 3449941... Added new layers
+>>>>>>> parent of 04eb922... NO
             "layers": [
 
             ],
@@ -44,6 +50,10 @@
             "userdefined_depth": false,
             "visible": true
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> parent of 04eb922... NO
         },
         {
             "__type": "GMRTileLayer_Model:#YoYoStudio.MVCFormat",
@@ -127,6 +137,11 @@
             "y": 0
 =======
 >>>>>>> parent of 3449941... Added new layers
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> parent of 3449941... Added new layers
+>>>>>>> parent of 04eb922... NO
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
@@ -139,6 +154,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> parent of 04eb922... NO
             "depth": 200,
 =======
             "depth": 300,
@@ -152,6 +171,12 @@
 =======
             "depth": 100,
 >>>>>>> parent of 3449941... Added new layers
+<<<<<<< HEAD
+=======
+=======
+            "depth": 100,
+>>>>>>> parent of 3449941... Added new layers
+>>>>>>> parent of 04eb922... NO
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
