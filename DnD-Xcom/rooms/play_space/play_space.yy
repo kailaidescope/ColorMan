@@ -42,6 +42,7 @@
             "mvc": "1.0",
             "userdefined_depth": false,
             "visible": true
+<<<<<<< HEAD
         },
         {
             "__type": "GMRTileLayer_Model:#YoYoStudio.MVCFormat",
@@ -121,6 +122,8 @@
             "visible": true,
             "x": 0,
             "y": 0
+=======
+>>>>>>> parent of 3449941... Added new layers
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
@@ -131,10 +134,14 @@
             "colour": { "Value": 4278190080 },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "depth": 200,
 =======
             "depth": 300,
 >>>>>>> 3449941a93946c8c7e4b8192ad06d3ea6afd0e39
+=======
+            "depth": 100,
+>>>>>>> parent of 3449941... Added new layers
 =======
             "depth": 100,
 >>>>>>> parent of 3449941... Added new layers
