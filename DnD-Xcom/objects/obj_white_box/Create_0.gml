@@ -1,1 +1,1 @@
-ddinstance_deactivate_object(obj_white_box);
+instance_deactivate_object(obj_white_box);
