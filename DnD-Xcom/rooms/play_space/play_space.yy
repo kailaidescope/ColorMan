@@ -33,6 +33,7 @@
                 {"name": "inst_5B7C28DE","id": "adee39ae-510a-47c5-b45f-9aa8df8cfc7d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5B7C28DE","objId": "e0965cad-4abe-4c94-98ad-dcf2b94aedc4","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 832,"y": 480},
                 {"name": "inst_21B20CC2","id": "c7c97890-f29e-4a96-91d4-aa1c0ab97e01","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_21B20CC2","objId": "e0965cad-4abe-4c94-98ad-dcf2b94aedc4","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 960,"y": 384}
             ],
+<<<<<<< HEAD
             "layers": [
 
             ],
@@ -57,6 +58,8 @@
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
             "inheritVisibility": false,
+=======
+>>>>>>> parent of 3449941... Added new layers
             "layers": [
 
             ],
@@ -135,10 +138,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "depth": 200,
 =======
             "depth": 300,
 >>>>>>> 3449941a93946c8c7e4b8192ad06d3ea6afd0e39
+=======
+            "depth": 100,
+>>>>>>> parent of 3449941... Added new layers
 =======
             "depth": 100,
 >>>>>>> parent of 3449941... Added new layers
