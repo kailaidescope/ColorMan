@@ -98,7 +98,7 @@
             "Key": "47fc7463-eb0e-48a2-a564-e0dd647225be",
             "Value": {
                 "id": "34734b64-dab8-41b6-8b44-8a35f7df4dfc",
-                "resourcePath": "sprites\\sprite6\\sprite6.yy",
+                "resourcePath": "sprites\\spr_white_box\\spr_white_box.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -138,7 +138,7 @@
             "Key": "9099f2a2-3059-4763-b34e-dc28b541d38d",
             "Value": {
                 "id": "2b41b4c5-d975-45df-a760-9a2f9a275261",
-                "resourcePath": "objects\\object4\\object4.yy",
+                "resourcePath": "objects\\obj_black_box\\obj_black_box.yy",
                 "resourceType": "GMObject"
             }
         },

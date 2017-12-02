@@ -2,7 +2,7 @@
     "id": "9099f2a2-3059-4763-b34e-dc28b541d38d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object4",
+    "name": "obj_black_box",
     "eventList": [
         
     ],

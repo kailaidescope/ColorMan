@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_white_box",
     "eventList": [
-        
+        {
+            "id": "78746f13-aac8-488c-a6a8-5cf2c1d1f20e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "5956f12f-fc17-4ee9-a6f8-4a9dbfbee3b5"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",

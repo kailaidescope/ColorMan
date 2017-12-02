@@ -1,0 +1,1 @@
+ddinstance_deactivate_object(obj_white_box);
