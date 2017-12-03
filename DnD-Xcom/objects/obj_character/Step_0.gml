@@ -102,3 +102,21 @@ else if (place_meeting(x, y + vsp, obj_white_box))
 }
 
 y = y + vsp;
+
+image_speed = 1;
+if (hsp = 0)
+{
+	sprite_index = spr_character;	
+}
+else if (hsp < 0)
+{
+	sprite_index = spr_character_run_left;
+}
+else if (hsp > 0)
+{
+	sprite_index = spr_character_run_right;	
+}
+	
+	
+
+
